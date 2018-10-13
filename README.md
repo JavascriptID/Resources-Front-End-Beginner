@@ -92,6 +92,7 @@ I'm using some emoticons to give you more information about these links.
   * [The Elements of HTML](https://rawgit.com/w3c/elements-of-html/master/index.html)
 
 * Guidelines
+  * [SEO, Speed and Security Best Practices - Checkbot](https://www.checkbot.io/guide/)
   * [HTML Best Practices - Github](https://github.com/hail2u/html-best-practices)
 
 * Quiz / Challenges
@@ -120,6 +121,7 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Tutoriel CSS : Comment bien organiser son CSS - Grafikart](https://www.youtube.com/watch?v=t8Up7GiNIoU) 🆓 📹
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
   * [CSS Tutorial - w3schools](https://www.w3schools.com/css/) 🆓
+  * [Learn CSS - Sololearn](https://www.sololearn.com/Course/CSS/)
     * Selectors
       * [CSS Diner](https://flukeout.github.io/) 🆓 🔝
     * Flexbox
@@ -127,6 +129,7 @@ I'm using some emoticons to give you more information about these links.
       * [Flexbox Defense](http://www.flexboxdefense.com/) 🆓 🔝
     * CSS Grid
       * 🌍 [Grid Garden](http://cssgridgarden.com/) 🆓 🔝
+      * [Learn CSS Grid with Wes Bos](https://cssgrid.io/) 🆓 🔝
 
 * Documentation
   * [CSS Reference](http://cssreference.io/) 🔝
@@ -181,6 +184,7 @@ I'm using some emoticons to give you more information about these links.
   * [JavaScript.Info](http://javascript.info/)
   * [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/) 🆓
   * [Javascript Tutorial - Watch and Code by Gordon Zhu](https://watchandcode.com/) 🆓💰
+  * [Learn Javascript](https://www.sololearn.com/Course/JavaScript/)
 
 * Documentation
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
@@ -228,8 +232,11 @@ I'm using some emoticons to give you more information about these links.
 ## Tools
 * Essential
   * [Github](https://github.com/) 💰🆓 🔝
+* Website auditors
+  * [Checkbot](https://www.checkbot.io/) 💰🆓 🔝
 * Playgrounds
   * [Codepen](https://codepen.io/) 💰🆓 🔝
+  * [CodeSandbox](https://codesandbox.io/)
   * [SassMeister](https://www.sassmeister.com/)
   * [JSFiddle](https://jsfiddle.net/)
 * Editors
